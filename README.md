@@ -1,4 +1,4 @@
-# 🛍️ E-commerce Purchase Prediction
+# 🛍️ Pet-project: E-commerce Purchase Prediction
 
 ## 📑 Overview
 
