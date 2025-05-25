@@ -40,7 +40,7 @@ This project focuses on predicting whether a user will purchase a product on an 
 ## 📦 Tools Used
 
 - Python, pandas, scikit-learn, xgboost, matplotlib, seaborn
-- SMOTE for handling class imbalance
+  
 
 ## 🚀 How to Run
 
